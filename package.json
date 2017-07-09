@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-awesome-markers",
+  "version": "1.0.0",
+  "description": "SSR friendly and add possibility to put html instead of icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexismoreau/leaflet-awesome-markers.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexismoreau/leaflet-awesome-markers/issues"
+  },
+  "homepage": "https://github.com/alexismoreau/leaflet-awesome-markers#readme"
+}
