@@ -42,9 +42,7 @@ if (Meteor.isClient) {
         var div = document.createElement('div'),
           options = this.options;
 
-        if (options.icon) {
-          div.innerHTML = this._createInner();
-        }
+        div.innerHTML = this._createInner();
 
         if (options.bgPos) {
           div.style.backgroundPosition =
